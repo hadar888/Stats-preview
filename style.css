@@ -108,10 +108,8 @@ section {
     }
 
     .main-img {
-        background-image: url("images/image-header-mobile.jpg");
         border-bottom-right-radius: 0;
         border-top-left-radius: 10px;
-        /* fix this */
     }
 
     .img-overlay {
